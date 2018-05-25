@@ -4,7 +4,7 @@
 
 The aim of this project is to make the text of *Scala Claustralium* more accessible since a Latin version of the work is not easy to find. The text found here is from the [*Patrologiae Latina*](https://books.google.com/books?id=pJHYAAAAMAAJ&pg=RA1-PT89#v=onepage&q&f=false) which is now in the public domain. Since OCR struggles to convert the *Patrologiae Latina* into plain text, I have transcribed it and will post pieces of it to the repository as I proofread my transcription.
 
-Note: A second version, ascribed to Augustine, can be found in the [*Patrologiae Latina*] here(https://books.google.com/books?id=qHHYAAAAMAAJ&pg=PT387#v=onepage&q&f=false). I have not transcribed that version.
+Note: A second version, ascribed to Augustine, can be found in the [*Patrologiae Latina* here](https://books.google.com/books?id=qHHYAAAAMAAJ&pg=PT387#v=onepage&q&f=false). I have not transcribed that version.
 
 ## Transcription
 I have made a few typographical changes in my transcription to update the *Patrologiae Latin*
